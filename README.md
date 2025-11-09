@@ -14,6 +14,6 @@ A Python desktop application that uses AI to recognize the laptop owner and thei
 
 ---
 
-- To use **face_recognition** successfully, you must run the following commands:
-  - **pip install wheel setuptools pip --upgrade**
-  - **pip install git+https://github.com/ageitgey/face_recognition_models**
+To use **face_recognition** successfully, you must run the following commands:
+- **pip install wheel setuptools pip --upgrade**
+- **pip install git+https://github.com/ageitgey/face_recognition_models**
