@@ -1,0 +1,7 @@
+*.jpg
+.jpg
+dataset/
+!dataset/.gitkeep
+.venv
+*.pt
+.idea
